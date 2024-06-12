@@ -1,0 +1,43 @@
+
+body{
+    background: url('https://cdn.pixabay.com/photo/2016/04/21/23/43/film-1344805_960_720.jpg');
+    background-size: cover;
+    width: 100%;
+    color: white;
+    
+}
+*{
+    color: white;
+}
+
+.card{
+    margin-left: 40%;
+    margin-top: 5% !important;
+    background-color: transparent !important;
+    
+}
+.list-group-item {
+    background-color: transparent !important;
+
+}
+.card2{
+    margin-left: 2%;
+    margin-top: 12%;
+    border: 1px solid blue;
+    border-radius: 5px;
+}
+.navbar{
+    background-color : gray; 
+}
+.but{
+    background-color: grey;
+    border-radius: 3px;
+    color: white;
+}
+#movie{
+    font-family: cursive;
+    font-size: 20px;
+}
+form{
+    width:500px !important;
+}
